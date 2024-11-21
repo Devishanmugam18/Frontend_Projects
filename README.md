@@ -1,6 +1,6 @@
 # Frontend Projects
 
-Welcome to my collection of highlighted frontend projects. Below you'll find a selection of projects that demonstrate my skills in frontend development.
+Welcome to my collection of personal frontend projects. Below you'll find a projects that demonstrate my skills in frontend development.
 
 ## Projects
 
