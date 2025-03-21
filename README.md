@@ -15,7 +15,7 @@ Welcome to my collection of personal frontend projects. Below you'll find a proj
 ### [Instagram Clone](https://github.com/Devishanmugam18/Responsive-Instagram-Clone.git)
 - **Live Demo**: [View Demo](https://devishanmugam18.github.io/Responsive-Instagram-Clone/)
 
-### [Landing page](https://github.com/Devishanmugam18/Ararat_Architecture)
+### [Responsive Landing page](https://github.com/Devishanmugam18/Ararat_Architecture)
 - **Live Demo**: [View Demo](https://devishanmugam18.github.io/Loopstudios_LandingPage/)
 
 ### [Signup Page](https://github.com/Devishanmugam18/signup-page.git)
