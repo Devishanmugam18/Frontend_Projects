@@ -16,7 +16,7 @@ Welcome to my collection of personal frontend projects. Below you'll find a proj
 - **Live Demo**: [View Demo](https://devishanmugam18.github.io/Responsive-Instagram-Clone/)
 
 ### [Landing page](https://github.com/Devishanmugam18/Ararat_Architecture)
-- **Live Demo**: [View Demo](https://devishanmugam18.github.io/Ararat_Architecture/)
+- **Live Demo**: [View Demo](https://devishanmugam18.github.io/Loopstudios_LandingPage/)
 
 ### [Signup Page](https://github.com/Devishanmugam18/signup-page.git)
 - **Description**: This project consists of a signup page designed for a website. The page contains fields for username, email ID, password, and confirm password. Each user input is thoroughly validated to ensure the accuracy of the provided data.
