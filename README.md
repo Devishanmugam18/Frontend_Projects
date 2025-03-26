@@ -5,12 +5,13 @@ Welcome to my collection of personal frontend projects. Below you'll find a proj
 ## Projects
 ### [Todo-List-App](https://github.com/Devishanmugam18/TODO-List-App)
 -**Description**: Here are its key features:
-Create tasks effortlessly
-Check off completed items
-Edit and update task with ease
-Filter tasks by completion status
-Responsive design for any device
+Create tasks effortlessly,
+Check off completed items,
+Edit and update task with ease,
+Filter tasks by completion status,
+Responsive design for any device.
 - **Live Demo**:[View Demo]https://devishanmugam18.github.io/TODO-List-App/
+
 This project showcases my skills in:
 → JavaScript
 → DOM manipulation
